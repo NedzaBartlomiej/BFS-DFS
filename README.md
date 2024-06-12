@@ -5,4 +5,3 @@
 ## Porównanie
 - `BFS` jest przydatne, gdy chcemy znaleźć najkrótszą ścieżkę między dwoma węzłami lub odwiedzić węzły na tym samym poziomie w grafie lub drzewie.
 - `DFS` jest przydatne, gdy chcemy przeszukać wszystkie możliwe ścieżki w grafie lub drzewie, sprawdzić wszystkie węzły lub odwiedzić węzły na najniższym poziomie w drzewie.
-![DFS drawio](https://github.com/NedzaBartlomiej/BFS-DFS/assets/86315326/c070d7e7-af10-45e8-9af8-f0084cc2d3a0)
