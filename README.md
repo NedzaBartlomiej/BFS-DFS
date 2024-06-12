@@ -1,7 +1,9 @@
 ## Prezentacja
 
-![BFS](https://github.com/NedzaBartlomiej/BFS-DFS/assets/86315326/f7df4304-5c1b-49f7-a716-00a97a0dcf1c)
-![DFS](https://github.com/NedzaBartlomiej/BFS-DFS/assets/86315326/1a3f30a7-74f2-492a-8df4-608fde31e586)
+![image](https://github.com/NedzaBartlomiej/BFS-DFS/assets/86315326/6189251d-c794-46b4-988c-891dd9b6548d)
+
+![image](https://github.com/NedzaBartlomiej/BFS-DFS/assets/86315326/01c6ce0f-aed5-4ed2-bfb1-1e6672d4dad7)
+
 
 
 ## Porównanie
